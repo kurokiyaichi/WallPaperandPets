@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/chise/0.png</file>
+        <file>resource/chise/1.png</file>
+        <file>resource/chise/2.png</file>
+        <file>resource/chise/3.png</file>
+        <file>resource/chise/4.png</file>
+        <file>resource/common/open.png</file>
+        <file>resource/common/switch.png</file>
+        <file>resource/common/exit.png</file>
+        <file>resource/wallpaper/1.jpg</file>
+        <file>resource/wallpaper/2.jpg</file>
+        <file>resource/wallpaper/3.jpg</file>
+    </qresource>
+</RCC>
